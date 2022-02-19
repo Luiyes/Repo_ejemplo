@@ -4,4 +4,4 @@ Repositorio de ejemplo para practicar
 Con este repositorio estoy aprendiendo a usar github con R.
 
 
-LIDE_ESPOL_Luis_Reyes
+LIDE_ESPOL_Luis_Reyes  
